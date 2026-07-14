@@ -1,0 +1,6 @@
+<svg viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="10" width="40" height="40" rx="8" fill="#1c1c1c" stroke="#00C853" stroke-width="2"/>
+  <rect x="10" y="32" width="24" height="4" rx="2" fill="#00C853"/>
+  <text x="10" y="26" font-family="'Poppins', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">MK</text>
+  <text x="54" y="38" font-family="'Poppins', sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">Tech<tspan fill="#00C853">Keys</tspan></text>
+</svg>
